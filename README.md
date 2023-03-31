@@ -1,4 +1,4 @@
------------------------------------------( Works Only On Linux Systems )---------------------------------------------------------------------------
+-----------------------------------------( Works Only On Linux Systems )-------------------------------------------------------------------------
 
 This Is Just a Simple Crypto Currency Miner, It Mines Monero For You Based On The Difficulty Of Your System !!
 
